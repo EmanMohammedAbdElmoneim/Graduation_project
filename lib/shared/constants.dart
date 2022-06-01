@@ -241,6 +241,4 @@ void tts (String text , String languageCode , String voiceName , String audioEnc
   }
   _playDemo();
 }
-void ttsCall(){
-    tts('اهلا ايمان محمد' , "ar-XA" , "ar-XA-Wavenet-B","LINEAR16");
-}
+//tts('اهلا ايمان محمد' , "ar-XA" , "ar-XA-Wavenet-B","LINEAR16");
